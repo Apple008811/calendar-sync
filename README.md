@@ -47,4 +47,6 @@ Feel free to open issues or submit pull requests to help improve this tool.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
+Note: This project was previously licensed under the MIT License. The Apache License 2.0 provides additional patent protection and is more suitable for projects that may involve patentable technology. 
